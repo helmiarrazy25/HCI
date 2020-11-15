@@ -1,7 +1,7 @@
 # HCI
 **Proyek UTS Interaksi Manusia dan Komputer**
 
-Universitas Indonesia, Fakultas Teknik, Teknik Komputer 2018
+**Universitas Indonesia, Fakultas Teknik, Teknik Komputer 2018**
 
 **Judul Proyek : "Le Fromage v6.9"**
 
