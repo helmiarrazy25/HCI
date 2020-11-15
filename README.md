@@ -21,8 +21,16 @@ Universitas Indonesia, Fakultas Teknik, Teknik Komputer 2018
 
 **HOW :** 
 
+**Jumlah Activity :** 6
+1. RegisterUser
+2. LoginActivity
+3. MainActivity
+4. AboutUs
+5. FoodDetails
+6. CartActivity
+
 **Screenshot Program Aplikasi :**
-1. Login Interface
+1. Login
 
 
 
