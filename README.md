@@ -25,16 +25,34 @@ Universitas Indonesia, Fakultas Teknik, Teknik Komputer 2018
 1. RegisterUser
 2. LoginActivity
 3. MainActivity
-4. AboutUs
-5. FoodDetails
-6. CartActivity
+4. FoodDetails
+5. CartActivity
+6. AboutUs
 
 **Screenshot Program Aplikasi :**
 1. Login
 
 ![](image/login.png)
 
+2. Register
 
+![](image/register.png)
+
+3. Main
+
+![](image/main.png)
+
+4. Food Detail
+
+![](image/detail.png)
+
+5. Cart
+
+![](image/cart.png)
+
+6. About Us
+
+![](image/aboutus.png)
 
 
 **IDE yang dibutuhkan :**
