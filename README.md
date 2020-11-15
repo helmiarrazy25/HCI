@@ -3,7 +3,7 @@
 
 **Universitas Indonesia, Fakultas Teknik, Teknik Komputer 2018**
 
-**Judul Proyek : "Le Fromage v6.9"**
+**Judul Aplikasi : "Le Fromage v6.9"**
 
 **Anggota Kelompok :**
 
