@@ -42,18 +42,6 @@ Universitas Indonesia, Fakultas Teknik, Teknik Komputer 2018
 
 ![](image/main.png)
 
-4. Food Detail
-
-![](image/detail.png)
-
-5. Cart
-
-![](image/cart.png)
-
-6. About Us
-
-![](image/aboutus.png)
-
 **IDE yang dibutuhkan :**
 1. Android Studio versi 4.1 keatas
 2. JDK versi 8 keatas
