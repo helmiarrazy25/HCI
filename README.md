@@ -1,5 +1,5 @@
 # HCI
-Proyek UTS Interaksi Manusia dan Komputer
+**Proyek UTS Interaksi Manusia dan Komputer**
 
 Universitas Indonesia, Fakultas Teknik, Teknik Komputer 2018
 
@@ -19,7 +19,7 @@ Universitas Indonesia, Fakultas Teknik, Teknik Komputer 2018
 
 **WHY :** Aplikasi ini cukup penting karena dapat membantu user agar bisa bisa memesan menu makanan dan minuman yang ada walaupun jarak lokasinya cukup jauh. Sederhananya dapat menghemat waktu dan praktis karena user tidak perlu repot repot datang ke restoran.
 
-**HOW :** 
+**HOW :** Filosofi pada aplikasi  ini adalah user yang melakukan interaksi (input) atau pemesanan akan mendapatkan output yang sangat baik dengan service yang memuaskan, dan pemilihan interface yang mudah digunakan oleh user. Selain itu nama Le Fromage diambil dari bahasa Prancis yang artinya adalah Keju, karena pada aplikasi ini ada 2 menu yang mempunyai rating bintang 5 yang artinya banyak sekali orang yang menyukainya, yaitu Cheese Burger dan Cheesecake.
 
 **Jumlah Activity :** 6
 1. RegisterUser
@@ -42,6 +42,17 @@ Universitas Indonesia, Fakultas Teknik, Teknik Komputer 2018
 
 ![](image/main.png)
 
+4. Food Detail
+
+![](image/detail1.png)
+
+5. Cart
+
+![](image/cart1.png)
+
+6. About Us
+
+![](image/aboutus1.png)
 
 **IDE yang dibutuhkan :**
 1. Android Studio versi 4.1 keatas
@@ -55,3 +66,5 @@ Universitas Indonesia, Fakultas Teknik, Teknik Komputer 2018
 4. Buka Project pada android studio sesuai dengan lokasi pengunduhan source code
 5. Build project, pada tahap ini project telah di clone
 6. Run project pada AVD
+
+**Alur Singkat Cara Kerja Program Aplikasi :** Pertama ketika user membuka aplikasi akan dibawa ke interface login, jika user belum mempunyai akun maka dapat membuatnya terlebih dahulu dengan klik tulisan "register here", setelah register user akan dibawa lagi ketampilan login untuk memasukkan informasi akunnya. Setelah login akan ke tampilan utamanya, disana ada 3 submenu yaitu popular, reccommended, dan all menu. User juga bisa mencari nama makanan atau minuman yang ingin dicari untuk menghemat waktu, hasil pencarian akan ditampilkan di bagian all menu. Untuk ketampilan About Us user dapat menekan gambar garpu dan pisau yang ada disebelah tulisan "Delicious Food". Tampilan informasi secara mendetail terkait makanan dan minuman akan ditampilkan jika user menekan gambar atau minuman yang dipilih, nanti akan ada pilihan add to cart, selanjutnya makanan akan ditampilkan dibagian cart (gambar keranjang).
