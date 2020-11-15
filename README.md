@@ -21,7 +21,9 @@ Universitas Indonesia, Fakultas Teknik, Teknik Komputer 2018
 
 **HOW :** 
 
-Screenshot Program Aplikasi :
+**Screenshot Program Aplikasi :**
+1. Login Interface
+
 
 
 **IDE yang dibutuhkan :**
