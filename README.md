@@ -54,7 +54,6 @@ Universitas Indonesia, Fakultas Teknik, Teknik Komputer 2018
 
 ![](image/aboutus.png)
 
-
 **IDE yang dibutuhkan :**
 1. Android Studio versi 4.1 keatas
 2. JDK versi 8 keatas
